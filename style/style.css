@@ -1,0 +1,204 @@
+body {
+    padding: 0;
+    margin: 0;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+    padding: 0;
+    margin: 0;
+  }
+  
+  img {
+    height: auto;
+    max-width: 100%;
+  
+  }
+  
+  .container {
+    width: 85%;
+    margin: auto;
+  }
+  .banner{
+    background-image: url(../image/background\ sec-.png);
+    background-repeat: no-repeat;
+  background-size: cover;
+  padding: 300px 0;
+  }
+  #left_slogn{
+    font-size: 20px;
+    margin-top: -270px;
+    margin-left: 230px;
+   font-family:  "Sofia", Sans-serif;
+   font-weight: bold;
+
+  }
+  #nav_sec ul{
+list-style: none;
+display: flex;
+margin-left: 400px;
+margin-top: -37px;
+  }
+  #nav_sec ul li{
+    padding: 20px;
+    font-family:  'Roboto', sans-serif;
+    color: #7a7a7a;
+    font-weight: bold;
+    font-size: 15px;
+  }
+  #nav_right{
+display: flex;
+margin-left: 250px;
+margin-top: -20px;
+  }
+ 
+  #nav_sec{
+    display: flex;
+   
+  }
+  #site_butn1{
+    background-color: #96BB7C;
+    border-radius: 4px;
+    width: 30%;
+    padding: 15px 30px;
+    margin-left: 20px;
+    margin-top: -15px;
+    margin-bottom: 14px;
+  }
+  #site_butn1 a {
+    text-decoration: none;
+    font-size: 12px;
+    color: #fff;
+    border-style: none;
+    text-align: center;
+    width: 40%;
+    font-weight: bold;
+    font-family:  'Roboto', sans-serif;
+  }
+  #login{
+    font-weight: bold;
+    font-size: 15px;
+    font-family:  'Roboto', sans-serif;
+    color: #96BB7C;
+  }
+  #online{
+   color: #96BB7C;
+   font-family:  'Roboto', sans-serif;
+   font-size: 15px;
+   margin-bottom: 35px;
+   font-weight: bold;
+  }
+  #courses {
+    font-family:'Roboto', sans-serif ;
+    font-size: 22px;
+    margin-bottom: 20px;
+    width: 90%;
+  
+  }
+  #everyday{
+    color: #7a7a7a;
+    font-family:'Roboto', sans-serif ;
+    font-weight: bold;
+    font-size: 17px;
+    width: 70%;
+    line-height: 25px;
+  }
+  #left_con{
+    margin-top: 150px;
+    margin-left: 200px;
+   
+  }
+  #content{
+    display: flex;
+  }
+  #boy img{
+    max-width: 65%;
+    margin-left:300px ;
+   
+  }
+  #pics{
+    display: flex;
+  }
+  #site_butn{
+    background-color: #96BB7C;
+    border-radius: 4px;
+    width: 30%;
+    padding: 11px 2px;
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 14px;
+  }
+  #site_butn a{
+    text-decoration: none;
+    font-size: 13px;
+    color: #fff;
+    border-style: none;
+   text-align: center;
+    width: 40%;
+    font-weight: bold;
+    font-family:  'Roboto', sans-serif;
+    margin-left: 20px;
+  }
+  #site_butn3{
+    background-color:white;
+   
+    width: 30%;
+    padding: 11px 2px;
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 14px;
+    
+  
+  }
+  #site_butn3 a{
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 13px;
+    color:#96BB7C;
+    border-color: #96BB7C;
+    border: 1px solid;
+   text-align: center;
+    width: 40%;
+    font-weight: bold;
+    font-family:  'Roboto', sans-serif;
+    margin-left: 20px;
+    padding: 15px;
+    padding-bottom: 10px;
+    padding-top: 13px;
+   
+  }
+  #site{
+    display: flex;
+  }
+  #practice{
+    font-weight: bold;
+    font-size: 15px;
+    font-family:  'Roboto', sans-serif;
+    color: #96BB7C;
+    margin-bottom: 40px;
+    margin-top: 70px;
+  }
+  #heading{
+    font-family:'Roboto', sans-serif ;
+    font-size: 20px;
+    margin-bottom: 20px;
+    width: 90%;
+    font-weight: bold;
+  
+  }
+  #para{
+  color: #7a7a7a;
+  font-family:'Roboto', sans-serif ;
+  font-size: 15px;
+  font-weight: bold;
+ 
+  line-height: 25px;
+}
+#top{
+  margin-left: 130px;
+}
