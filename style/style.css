@@ -94,7 +94,7 @@ margin-top: -20px;
    font-weight: bold;
   }
   #courses {
-    font-family:'Roboto', sans-serif ;
+    font-family: "Montserrat", 'Roboto', sans-serif ;
     font-size: 22px;
     margin-bottom: 20px;
     width: 90%;
@@ -198,7 +198,269 @@ margin-top: -20px;
   font-weight: bold;
  
   line-height: 25px;
+  margin-bottom: 130px;
 }
 #top{
   margin-left: 130px;
+}
+#training h1{
+  font-family:'Roboto', sans-serif  ;
+font-weight:bold;
+font-size: 18px;
+color: black;
+margin-bottom: 30px;
+padding: 20px;
+margin-top: 30px;
+margin-left: 20px;
+}
+#paragraph p{
+  color: #7a7a7a;
+    font-family:'Roboto', sans-serif ;
+    font-size: 17px;
+    line-height: 25px;
+   padding: 20px;
+   margin-left: 20px;
+   
+}
+#inner_block{ 
+  border: 1px solid;
+ width: 23%;
+  color: #7a7a7a;
+}
+#blocks{
+  display: flex;
+ justify-content: space-between;
+}
+#line{
+  background-color: red;
+  height: 3px;
+  width: 65px;
+  margin-left: 40px;
+}
+#inner_block3{
+background-color: #96BB7C;
+border: 1px solid;
+width: 23%;
+ color: #7a7a7a;
+}
+#line3{
+  background-color: white;
+  height: 3px;
+  width: 65px;
+  margin-left: 40px;
+}
+#paragraph3 p{
+  color: white;
+    font-family:'Roboto', sans-serif ;
+    font-size: 17px;
+    line-height: 25px;
+   padding: 20px;
+   margin-left: 20px;
+   
+}
+#training3 h1{
+  font-family:'Roboto', sans-serif  ;
+font-weight:bold;
+font-size: 18px;
+color:white;
+margin-bottom: 30px;
+padding: 20px;
+margin-top: 30px;
+margin-left: 20px;
+}
+#picture{
+  margin-top: 20px;
+  margin-left: 60px;
+}
+#sec_3{
+  margin-top: 170px;
+}
+#line4{
+  background-color: red;
+  height: 10px;
+  width: 15%;
+  margin-left: 400px;
+  margin-bottom: 30px;
+ 
+}
+#sec_inn{
+  display: flex;
+ 
+}
+#quality{
+  font-family: "Montserrat",'Roboto', sans-serif  ;
+  font-weight: bold;
+  font-size: 35px;
+  margin-left: 400px;
+  width: 50%;
+}
+#parag p{
+  color: #7a7a7a;
+  font-family:'Roboto', sans-serif ;
+  font-size: 15px;
+  line-height: 25px;
+  margin-left: 400px;
+  width: 40%;
+  margin-top: 50px;
+  font-weight: bold;
+}
+#left_side img{
+  max-width: 180%;
+  
+}
+#site_butn4 a {
+  text-decoration: none;
+  font-size: 16px;
+  color:#96BB7C;
+  border-style: none;
+  text-align: center;
+  font-weight: bold;
+  font-family:  'Roboto', sans-serif;
+  margin-left: 400px;
+ 
+}
+#site_butn4{
+  margin-top: 50px;
+}
+#line5{
+  background-color: red;
+  height: 10px;
+  width: 15%;
+  margin-bottom: 30px;
+ 
+}
+#pkg{
+  font-family:'Roboto', sans-serif  ;
+  font-weight: bold;
+  font-size: 20px;
+}
+#paragr p{
+  color: #7a7a7a;
+  font-family:'Roboto', sans-serif ;
+  font-size: 15px;
+  line-height: 25px;
+  width: 40%;
+  margin-top: 50px;
+  font-weight: bold;
+   }
+#site_butn5 a {
+  text-decoration: none;
+  font-size: 16px;
+  color:#96BB7C;
+  border-style: none;
+  text-align: center;
+  font-weight: bold;
+  font-family:  'Roboto', sans-serif;
+ 
+ 
+}
+#site_butn5{
+  margin-top: 50px;
+}
+#sec_5{
+  margin-top: 100px;
+}
+#inner_sec5{
+  display: flex;
+}
+#left5{
+  width: 45%;
+}
+#right5{
+  width: 45%;
+  margin-left: 120px;
+}
+#course{
+  text-decoration: none;
+  font-size: 11px;
+  color:#96BB7C;
+  font-weight: bold;
+  font-family:  'Roboto', sans-serif;
+}
+#pop_cou{
+  font-family:'Roboto', sans-serif  ;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 20px;
+}
+#paragra {
+  color: #7a7a7a;
+  font-family:'Roboto', sans-serif ;
+  font-size: 15px;
+  line-height: 25px;
+  width: 60%;
+  margin-top: 30px;
+  font-weight: bold;
+}
+#sec_6{
+  margin-top: 130px;
+}
+#images{
+  display: flex;
+  margin-top: 60px;
+}
+#block{
+  width: 23%;
+}
+#sec_7{
+  margin-top: 130px;
+}
+#block2{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 80px;
+}
+#sec_8{
+  margin-top: 130px;
+}
+#fb1{
+  border: 1px solid;
+  width: 45%;
+   color: white;
+}
+#feedback{
+  justify-content: space-between;
+  display: flex;
+  margin-top: 100px;
+}
+#fb_text{
+  color: #7a7a7a;
+  font-family:'Roboto', sans-serif ;
+  font-size: 15px;
+  line-height: 25px;
+  width: 60%;
+  margin-top: 50px;
+  font-weight: bold;
+  text-align: center;
+  margin-left: 100px;
+}
+#stars{
+  margin-top: 20px;
+  text-align: center;
+}
+#name h3{
+  font-weight: bold;
+  font-size: 14px;
+  color: black;
+  font-family:'Roboto', sans-serif  ;
+  text-align: center;
+}
+#name{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+#fb_img{
+  margin-left: 190px;
+}
+#design{
+  color: #7a7a7a;
+  font-family:'Roboto', sans-serif ;
+  font-size: 11px;
+  font-weight: bold;
+  line-height: 25px;
+  margin-top: 10px;
+  text-align: center;
+}
+#sec-9{
+  background-color: #FFF2F3;
 }
