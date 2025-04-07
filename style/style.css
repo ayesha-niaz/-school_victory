@@ -3,6 +3,7 @@ body {
     margin: 0;
   }
   
+
   h1,
   h2,
   h3,
@@ -461,6 +462,95 @@ margin-left: 20px;
   margin-top: 10px;
   text-align: center;
 }
-#sec-9{
+#sec_9{
   background-color: #FFF2F3;
+  margin-top: 80px;
+  height: 600px;
+}
+#news h1{
+  text-decoration: none;
+  font-size: 13px;
+  color:#96BB7C;
+  font-weight: bold;
+  font-family:  'Roboto', sans-serif;
+  text-align: center;
+  margin-bottom: 10px;
+}
+#our_experts h1{
+  font-weight: bold;
+  font-size: 30px;
+  color: black;
+  font-family:'Roboto', sans-serif  ;
+  text-align: center;
+}
+#paragrap{
+  color: #7a7a7a;
+  font-family:'Roboto', sans-serif ;
+  font-size: 13px;
+  line-height: 25px;
+  width: 35%;
+  margin-top: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin-left: 390px;
+}
+#inner9{
+  padding-top: 150px;
+}
+#email{
+  margin-top: 80px;
+  margin-left: 350px;
+  margin-bottom: 100px;
+}
+#email img{
+max-width: 60%;
+}
+#headings h2{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+}
+#headings{
+  margin-left: 45px;
+}
+#list ul {
+  list-style: none;
+
+}
+#list ul li {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 10px;
+  color: #7a7a7a;
+  padding: 7px;
+}
+#inner_sec10{
+  display: flex;
+  
+}
+#box{
+  width: 20%;
+}
+#sec_10{
+  margin-top: 50px;
+}
+#last_sec{
+  display: flex;
+  padding: 20px;
+}
+#text{
+  color: #7a7a7a;
+  font-family:'Roboto', sans-serif ;
+  font-size: 13px;
+  line-height: 25px;
+  font-weight: bold;
+  text-align: center;
+  margin-left: 190px;
+}
+#sec_11{
+  background-color:#FAFAFA;
+  margin-top: 10px;
+}
+#text_img{
+  margin-left: 250px;
 }
