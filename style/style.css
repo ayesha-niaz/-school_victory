@@ -662,3 +662,5 @@ img {
 #text_img {
   margin-left: 250px;
 }
+@media screen and (max-width: 768px) {
+ }
