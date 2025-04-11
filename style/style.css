@@ -56,7 +56,6 @@ img {
   font-weight: bold;
   font-size: 15px;
 }
-
 #nav_right {
   display: flex;
   margin-left: 250px;
@@ -205,7 +204,16 @@ img {
   margin-bottom: 40px;
   margin-top: 70px;
 }
-
+@media screen and (max-width: 768px) {
+  #practice{
+   font-size: 19px;
+margin-left: 100px;
+  }
+}
+@media screen and (max-width: 768px) {
+  #right_side{
+  }
+}
 #heading {
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
@@ -239,6 +247,12 @@ img {
   margin-top: 30px;
   margin-left: 20px;
 }
+@media screen and (max-width: 768px) {
+  #training h1{
+   font-size: 23px;
+
+  }
+}
 
 #paragraph p {
   color: #7a7a7a;
@@ -249,11 +263,23 @@ img {
   margin-left: 20px;
 
 }
+@media screen and (max-width: 768px) {
+  #paragraph p{
+   font-size: 19px;
 
+  }
+}
 #inner_block {
   border: 1px solid;
   width: 23%;
   color: #7a7a7a;
+}
+@media screen and (max-width: 768px) {
+  #inner_block {
+   
+  width: 100%;
+margin-bottom: 20px;
+  }
 }
 
 #blocks {
@@ -265,7 +291,7 @@ img {
   #blocks {
     display: flex;
     flex-direction: column;
-
+    
   }
 }
 
@@ -281,6 +307,13 @@ img {
   border: 1px solid;
   width: 23%;
   color: #7a7a7a;
+}
+@media screen and (max-width: 768px) {
+  #inner_block3 {
+   
+  width: 100%;
+  margin-bottom: 20px;
+  }
 }
 
 #line3 {
@@ -299,6 +332,13 @@ img {
   margin-left: 20px;
 
 }
+@media screen and (max-width: 768px) {
+  #paragraph3 p {
+   
+  font-size: 19px;
+  
+  }
+}
 
 #training3 h1 {
   font-family: 'Roboto', sans-serif;
@@ -310,12 +350,31 @@ img {
   margin-top: 30px;
   margin-left: 20px;
 }
+@media screen and (max-width: 768px) {
+  #training3 h1{
+   
+  font-size: 23px;
+  
+  }
+}
 
 #picture {
   margin-top: 20px;
   margin-left: 60px;
 }
-
+@media screen and (max-width: 768px) {
+  #picture {
+  margin-left: 170px;
+    }
+  }
+@media screen and (max-width: 768px) {
+#picture img {
+ max-width: 40%;
+   
+  width: 80%;
+  
+  }
+}
 #sec_3 {
   margin-top: 170px;
 }
@@ -332,6 +391,13 @@ img {
 #sec_inn {
   display: flex;
 
+}
+@media screen and (max-width: 768px) {
+  #sec_inn {
+    display: flex;
+    flex-direction: column;
+
+  }
 }
 
 #quality {
@@ -421,6 +487,13 @@ img {
 #inner_sec5 {
   display: flex;
 }
+@media screen and (max-width: 768px) {
+  #inner_sec5 {
+    display: flex;
+    flex-direction: column;
+
+  }
+}
 
 #left5 {
   width: 45%;
@@ -508,7 +581,13 @@ img {
   display: flex;
   margin-top: 100px;
 }
+@media screen and (max-width: 768px) {
+  #feedback {
+    display: flex;
+    flex-direction: column;
 
+  }
+}
 #fb_text {
   color: #7a7a7a;
   font-family: 'Roboto', sans-serif;
@@ -662,5 +741,3 @@ img {
 #text_img {
   margin-left: 250px;
 }
-@media screen and (max-width: 768px) {
- }
